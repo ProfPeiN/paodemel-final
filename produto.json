@@ -1,0 +1,83 @@
+{
+  "nome": "Pão de Mel Tradicional",
+  "descricao": "Produzido artesanalmente com ingredientes selecionados.",
+  "peso": "65 g",
+  "lote": "",
+  "fabricacao": "",
+  "validade": "",
+  "ingredientes": "Farinha de trigo enriquecida com ferro e ácido fólico, mel, açúcar, ovos, leite, chocolate ao leite, cacau em pó, fermento químico, canela e cravo.",
+  "alergenicos": [
+    "CONTÉM TRIGO.",
+    "CONTÉM LEITE.",
+    "CONTÉM OVOS.",
+    "CONTÉM GLÚTEN.",
+    "PODE CONTER AMENDOIM E CASTANHAS."
+  ],
+  "conservacao": "Manter em local fresco, seco e protegido da luz solar. Após aberto consumir em até 3 dias.",
+  "empresa": {},
+  "imagemProduto": "imagens/pao-de-mel.jpg",
+  "imagemLogo": "imagens/logo.png",
+  "tabelaNutricional": "imagens/tabela-nutricional.jpeg",
+  "nutrientes": [
+    [
+      "Valor energético (kcal)",
+      "355",
+      "231",
+      "12"
+    ],
+    [
+      "Carboidratos (g)",
+      "37,4",
+      "24,3",
+      "8"
+    ],
+    [
+      "Açúcares totais (g)",
+      "28,5",
+      "18,5",
+      "—"
+    ],
+    [
+      "Açúcares adicionados (g)",
+      "23,7",
+      "15,4",
+      "31"
+    ],
+    [
+      "Proteínas (g)",
+      "11,5",
+      "7,5",
+      "15"
+    ],
+    [
+      "Gorduras totais (g)",
+      "17,5",
+      "11,4",
+      "18"
+    ],
+    [
+      "Gorduras saturadas (g)",
+      "9,3",
+      "6,0",
+      "30"
+    ],
+    [
+      "Gorduras trans (g)",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "Fibra alimentar (g)",
+      "6,2",
+      "4,0",
+      "16"
+    ],
+    [
+      "Sódio (mg)",
+      "206",
+      "134",
+      "7"
+    ]
+  ]
+}
