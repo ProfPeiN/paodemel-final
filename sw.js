@@ -1,5 +1,5 @@
 /* Ao alterar o site, incremente VERSION para renovar todos os arquivos. */
-const VERSION = 'pao-de-mel-offline-v2';
+const VERSION = 'pao-de-mel-offline-v3';
 const BASE = new URL('./', self.location.href);
 const FILES = [
   './', './index.html', './style.css', './script.js', './modelo-3d.js',

@@ -13,3 +13,9 @@ body{overflow-x:clip}.flying-bees{position:fixed;inset:0;pointer-events:none;z-i
 .model-stage{position:relative;width:100%;aspect-ratio:1/1.05;border-radius:48% 48% 22px 22px;background:radial-gradient(ellipse at 50% 30%,#fffaf0,#efdfc5);overflow:hidden;box-shadow:inset 0 0 0 1px #e5d2b5,0 24px 45px #43271f12}.model-stage canvas{display:none;width:100%;height:100%;touch-action:pan-y;cursor:grab}.model-stage canvas:active{cursor:grabbing}.model-stage.model-ready canvas{display:block}.model-fallback{position:absolute;top:20%;left:5%;width:90%;border-radius:30px}.model-ready .model-fallback{display:none}.model-hint{position:absolute;bottom:17px;left:8px;right:8px;text-align:center;font-size:10px;letter-spacing:.6px;color:#765e48;pointer-events:none}.product-reference{display:block;width:180px;float:right;border-radius:16px;margin:0 0 10px 15px}.hero-visual .photo-label{bottom:23px;left:22%}.hero-visual{padding-bottom:40px}@media(max-width:760px){.product-reference{width:130px}.model-hint{font-size:9px}}
 
 .offline-notice{margin:24px auto 0;padding:16px 20px;max-width:650px;border:1px solid var(--line);border-radius:12px;background:#fffaf1;text-align:center}.offline-notice p{font-size:13px;color:var(--brown)}.offline-notice small{display:block;margin-top:5px;color:var(--muted);font-size:11px;line-height:1.5}
+
+/* Nome abaixo do mostruário, separado da instrução de interação. */
+.hero-visual .photo-label{position:relative;display:table;left:auto;bottom:auto;margin:18px auto 0;transform:rotate(-3deg);z-index:3}
+.hero-visual .bee-two{bottom:78px;left:-14px}
+.model-hint{bottom:16px;padding:0 8px;line-height:1.5}
+@media(max-width:760px){.hero-visual .photo-label{margin-top:16px;font-size:19px}.hero-visual .bee-two{bottom:76px;left:-8px}.model-hint{font-size:10px}}
